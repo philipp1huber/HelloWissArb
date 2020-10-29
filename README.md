@@ -13,3 +13,5 @@ With this positive attitude you can handle every issue.
   - RESULT: the terminal prompts with ourhappy maxim
 - OR use a IDE, e.g. Codeblocks, open the file and compile it
 
+### Example outcome: 
+![alt text](http://url/to/img.png)
