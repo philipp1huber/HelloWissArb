@@ -14,4 +14,4 @@ With this positive attitude you can handle every issue.
 - OR use a IDE, e.g. Codeblocks, open the file and compile it
 
 ### Example outcome: 
-![alt text](http://url/to/img.png)
+![screenshot](https://github.com/philipp1huber/HelloWissArb/blob/main/hello_world.PNG)
